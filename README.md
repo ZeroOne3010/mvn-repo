@@ -15,7 +15,18 @@ After that you can add dependencies from this repository as usual. For example:
 	<dependencies>
 		<dependency>
 			<groupId>com.github.zeroone3010</groupId>
+			<artifactId>yetanotherhueapi</artifactId>
+			<version>0.2.0-SNAPSHOT</version>
+		</dependency>
+	</dependencies>
+
+or
+
+	<dependencies>
+		<dependency>
+			<groupId>com.github.zeroone3010</groupId>
 			<artifactId>tabular-data</artifactId>
 			<version>1.0.0-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
+
